@@ -4,6 +4,4 @@ user:
 apis:
   movies:
     url: "https://moviesminidatabase.p.rapidapi.com"
-    headers:
-      - "X-RapidAPI-Key:b2d76e1138msh04892c3280f71c7p1ecf6djsncee67a4b5d4d"
-      - "X-RapidAPI-Host:moviesminidatabase.p.rapidapi.com"
+    headers: "X-RapidAPI-Key:b2d76e1138msh04892c3280f71c7p1ecf6djsncee67a4b5d4d;X-RapidAPI-Host:moviesminidatabase.p.rapidapi.com"
