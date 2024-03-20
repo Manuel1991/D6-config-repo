@@ -6,7 +6,6 @@ apis:
     url: "https://moviesminidatabase.p.rapidapi.com"
     headers: "X-RapidAPI-Key:b2d76e1138msh04892c3280f71c7p1ecf6djsncee67a4b5d4d;X-RapidAPI-Host:moviesminidatabase.p.rapidapi.com"
 
-spring:
-  datasource:
-    url: "jdbc:sqlite:C:/Users/Usuario/AppData/Roaming/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
-    driver-class-name: "org.sqlite.JDBC"
+datasource:
+  url: "jdbc:sqlite:C:/Users/Usuario/AppData/Roaming/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
+  driver-class-name: "org.sqlite.JDBC"
